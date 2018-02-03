@@ -1,2 +1,2 @@
 # blog-collection
-Collect the blogs
+Collect the blogs on the Wiki page.
