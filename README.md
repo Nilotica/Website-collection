@@ -1,4 +1,4 @@
-# blog-collection
+# Website collection
 
 ### Collect some useful website on the Wiki page.
 
